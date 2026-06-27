@@ -17,8 +17,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GameFriendsTeam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameFriendsTeam&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamefriendsteam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamefriendsteam&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="langs" />
 </p><br>
 
 
