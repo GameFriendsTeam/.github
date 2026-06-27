@@ -12,5 +12,5 @@
 [special-spork](https://github.com/GameFriendsTeam/special-spork)<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,java,php,cmake)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=arch,kali,ubuntu,windows)](http://skillicons.dev/)<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,qt,obsidian)](http://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,qt,obsidian)](http://skillicons.dev/)<br>
+[![My Skills](https://skillicons.dev/icons?i=arch,kali,ubuntu,windows)](http://skillicons.dev/)
