@@ -11,6 +11,6 @@
 [CurrencyAPI](https://github.com/GameFriendsTeam/CurrencyAPI)<br>
 [special-spork](https://github.com/GameFriendsTeam/special-spork)<br>
 
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,qt,obsidian,discord,git,github)](http://skillicons.dev/)<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,java,php,cmake)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,qt,obsidian,discord)](http://skillicons.dev/)<br>
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,ubuntu,windows)](http://skillicons.dev/)
