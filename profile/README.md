@@ -11,6 +11,8 @@
 [CurrencyAPI](https://github.com/GameFriendsTeam/CurrencyAPI)<br>
 [special-spork](https://github.com/GameFriendsTeam/special-spork)<br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GameFriendsTeam&theme=algolia"><br>
+
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,qt,cmake,obsidian,discord,git,github,visualstudio,pycharm)](http://skillicons.dev/)<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,java,php,c,cpp,sqlite,mysql)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,nix,ubuntu,windows)](http://skillicons.dev/)<br>
